@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InitScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/InitScript.cs" Line="466" Column="62" />
+      <File FileName="Assets/Scripts/Forces.cs" Line="9" Column="38" />
+      <File FileName="Assets/Scripts/Node.cs" Line="116" Column="87" />
+      <File FileName="Assets/Scripts/FGraph.cs" Line="163" Column="19" />
+      <File FileName="Assets/Scripts/FVertex.cs" Line="14" Column="32" />
+      <File FileName="Assets/Scripts/FEdge.cs" Line="12" Column="98" />
+      <File FileName="Assets/Scripts/QueueObj.cs" Line="31" Column="4" />
+      <File FileName="Assets/Scripts/miniQueueObj.cs" Line="7" Column="26" />
+      <File FileName="Assets/Scripts/CharFuncs.cs" Line="1054" Column="20" />
+      <File FileName="Assets/Scripts/GlobalObjs.cs" Line="21" Column="42" />
+      <File FileName="Assets/Scripts/FQueueObj.cs" Line="24" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
